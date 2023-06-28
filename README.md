@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-369suriya/369suriya is a ✨ specialist wooooow!!!! ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+369suriya/369suriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
